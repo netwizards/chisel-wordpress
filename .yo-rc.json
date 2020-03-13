@@ -1,0 +1,13 @@
+{
+  "generator-chisel": {
+    "config": {
+      "name": "Chisel Wordpress",
+      "author": "Krzysztof",
+      "projectType": "wp-with-fe",
+      "nameSlug": "chisel-wordpress",
+      "nameCamel": "ChiselWordpress",
+      "chiselVersion": "0.16.1",
+      "has_jquery": false
+    }
+  }
+}
